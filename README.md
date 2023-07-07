@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hello, I'm Jo.<br>🌱I'm currently learning Java and React.<br>👀I'm looking for a job as a fullstack or backend developer.<br>👯‍♀️I'm interested in cooking, sport and gaming.<br>
+👋Hello, I'm Jo.<br>🌱I'm currently working as a Integration Architect.<br>👯‍♀️I'm interested in cooking, sport and gaming.<br>
 
 
 ## 🌐 Socials:
